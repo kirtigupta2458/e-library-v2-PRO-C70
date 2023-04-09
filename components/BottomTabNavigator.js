@@ -22,7 +22,7 @@ export default class BottomTabNavigator extends Component {
             activeTintColor: "",
             inactiveTintColor: "",
             style: {
-              \
+              
             },
             labelStyle: {
               fontSize: 20,
@@ -30,7 +30,7 @@ export default class BottomTabNavigator extends Component {
             },
             labelPosition: "",
             tabStyle: {
-              \
+              
             }
           }}
         >
