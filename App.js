@@ -13,10 +13,7 @@ export default class App extends Component {
   }
 
   async loadFonts() {
-    await Font.loadAsync({
-      Rajdhani_600SemiBold: Rajdhani_600SemiBold
-    });
-    this.setState({ fontLoaded: true });
+    
   }
 
   componentDidMount() {
